@@ -173,5 +173,3 @@ The dashboard simulates real-time updates using:
 4. **State Synchronization**: Consistent data across components
 
 ---
-
-Built with ❤️ for modern railway operations | **Made with Emergent**
