@@ -2,7 +2,7 @@
 
 A cinematic, production-ready React dashboard for AI-powered train traffic monitoring and control. Built with modern web technologies and designed for real-time operational excellence.
 
-![image alt]([file:///C:/Users/admin/Downloads/SIH/ai-train-traffic-control.pdf](https://github.com/wyayash/Ai-train-traffic-control/blob/73dbaeb2eae35ace5696251c54df0b36ebf2d15f/541192161_651620057644438_827088286938856502_n.png)
+![Dashboard Screenshot]([file:///C:/Users/admin/Downloads/SIH/ai-train-traffic-control.pdf](https://github.com/wyayash/Ai-train-traffic-control/blob/73dbaeb2eae35ace5696251c54df0b36ebf2d15f/541192161_651620057644438_827088286938856502_n.png)
 )
 
 ## 🚀 Features
